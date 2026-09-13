@@ -117,7 +117,7 @@ with st.sidebar:
     st.divider()
     st.write(f"Knowledge items: {len(records)}")
     st.write(f"Retrieval: top 3 semantic matches")
-    st.write("LLM: Gemini 2.5 Flash")
+    st.write("LLM: Gemini 3.1 Flash-Lite")
 
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
