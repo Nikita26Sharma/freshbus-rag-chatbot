@@ -13,7 +13,7 @@ st.set_page_config(
     layout="centered",
 )
 
-DATA_PATH = Path(__file__).parent / "data" / "knowledge_base.json"
+DATA_PATH = Path(__file__).parent / "knowledge_base.json"
 MODEL_NAME = "all-MiniLM-L6-v2"
 LLM_MODEL = "gemini-2.5-flash"
 
