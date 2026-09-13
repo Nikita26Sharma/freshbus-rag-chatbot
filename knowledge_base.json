@@ -1,0 +1,198 @@
+[
+  {
+    "id": "faq_boarding",
+    "category": "Booking & General",
+    "source": "Fresh Bus FAQ",
+    "url": "https://www.freshbus.com/faq",
+    "text": "When should I reach the Boarding Point? Passenger should report to the boarding point 15 mins prior of the Boarding time."
+  },
+  {
+    "id": "faq_online_cost",
+    "category": "Booking & General",
+    "source": "Fresh Bus FAQ",
+    "url": "https://www.freshbus.com/faq",
+    "text": "Does booking online cost me more? No, the fare will remain the same, however you could be benefited by discount offers."
+  },
+  {
+    "id": "faq_payment",
+    "category": "Booking & General",
+    "source": "Fresh Bus FAQ",
+    "url": "https://www.freshbus.com/faq",
+    "text": "What payment options are available? Tickets can be booked through Debit Card, Credit Card, Internet Banking, and eWallets."
+  },
+  {
+    "id": "faq_failed_payment",
+    "category": "Payment & Refund",
+    "source": "Fresh Bus FAQ",
+    "url": "https://www.freshbus.com/faq",
+    "text": "If the amount is deducted and the ticket is not confirmed, the amount will be reverted back to the same account from which the payment was made within 2-7 business working days. If it is not credited within that timeline, the customer should contact Fresh Bus support."
+  },
+  {
+    "id": "faq_cancel_refund",
+    "category": "Cancellation & Refund",
+    "source": "Fresh Bus FAQ",
+    "url": "https://www.freshbus.com/faq",
+    "text": "How will I get a refund if I cancel the ticket? Post cancellation, the refund amount will be reverted back to the same account from which the payment was made in 2-7 working days."
+  },
+  {
+    "id": "faq_missed_bus",
+    "category": "Cancellation & Refund",
+    "source": "Fresh Bus FAQ",
+    "url": "https://www.freshbus.com/faq",
+    "text": "Do I get the refund if I missed the bus? No, the refund will not be processed if the passenger misses the bus."
+  },
+  {
+    "id": "faq_partial_cancel",
+    "category": "Cancellation & Refund",
+    "source": "Fresh Bus FAQ",
+    "url": "https://www.freshbus.com/faq",
+    "text": "Can I do partial cancellation on my ticket? Yes, you can cancel the seats that you want to."
+  },
+  {
+    "id": "terms_cancel",
+    "category": "Cancellation & Refund",
+    "source": "Fresh Bus Terms & Conditions",
+    "url": "https://www.freshbus.com/terms-and-conditions",
+    "text": "Fresh Bus cancellation policy: below 6 hours before boarding, refund in Green Coins is 20% and cancellation refund percentage is 0%; 6-12 hours gives 70% Green Coins and 50% cancellation refund; 12-24 hours gives 85% Green Coins and 80% cancellation refund; above 24 hours gives 95% Green Coins and 85% cancellation refund."
+  },
+  {
+    "id": "terms_partial_refund",
+    "category": "Cancellation & Refund",
+    "source": "Fresh Bus Terms & Conditions",
+    "url": "https://www.freshbus.com/terms-and-conditions",
+    "text": "Partial cancellation is allowed. Refunds for partial cancellations will be processed after the date of journey."
+  },
+  {
+    "id": "terms_cancel_platform",
+    "category": "Cancellation & Refund",
+    "source": "Fresh Bus Terms & Conditions",
+    "url": "https://www.freshbus.com/terms-and-conditions",
+    "text": "Bookings made via the Fresh Bus website or app can be cancelled only through the same platform. Refunds, if applicable, will be credited within 2-7 working days."
+  },
+  {
+    "id": "terms_no_show",
+    "category": "Cancellation & Refund",
+    "source": "Fresh Bus Terms & Conditions",
+    "url": "https://www.freshbus.com/terms-and-conditions",
+    "text": "Passengers who are not present at the boarding point will not be eligible for refunds."
+  },
+  {
+    "id": "terms_modification",
+    "category": "Booking & General",
+    "source": "Fresh Bus Terms & Conditions",
+    "url": "https://www.freshbus.com/terms-and-conditions",
+    "text": "Once a ticket is booked, changes or modifications cannot be made."
+  },
+  {
+    "id": "green_coins",
+    "category": "Green Coins",
+    "source": "Fresh Bus FAQ",
+    "url": "https://www.freshbus.com/faq",
+    "text": "Promo Green Coins are credited from marketing promotions, travel and earn campaigns, referrals, and signup offers. They can be used only for bookings and standard Promo Green Coins expire in 6 months. Non-Promo Green Coins are credited mainly from refunds and can be used for bookings or other product purchases and generally do not expire unless explicitly set for a specific transaction type."
+  },
+  {
+    "id": "green_coins_refund",
+    "category": "Green Coins",
+    "source": "Fresh Bus FAQ",
+    "url": "https://www.freshbus.com/faq",
+    "text": "Green Coin refunds are credited back in the same type they were originally used: NGC refunds as NGC and PGC refunds as PGC. Refund priority is NGC, then PGC, then Cash. Expired PGC is not refunded."
+  },
+  {
+    "id": "green_coins_bank",
+    "category": "Green Coins",
+    "source": "Fresh Bus FAQ",
+    "url": "https://www.freshbus.com/faq",
+    "text": "Green Coins cannot be withdrawn to a bank account."
+  },
+  {
+    "id": "fresh_card_benefits",
+    "category": "Fresh Card",
+    "source": "Fresh Bus FAQ",
+    "url": "https://www.freshbus.com/faq",
+    "text": "Fresh Card gives 10% off the seat fare, up to ₹200 off per booking, on the next 10 trips. It is valid for 6 months and works on any route."
+  },
+  {
+    "id": "fresh_card_price",
+    "category": "Fresh Card",
+    "source": "Fresh Bus FAQ",
+    "url": "https://www.freshbus.com/faq",
+    "text": "The Fresh Card is available at an introductory price of ₹99."
+  },
+  {
+    "id": "fresh_card_platform",
+    "category": "Fresh Card",
+    "source": "Fresh Card",
+    "url": "https://www.freshbus.com/freshcard",
+    "text": "Fresh Card can only be used on the Fresh Bus website and Fresh Bus mobile app. It cannot be used for offline bookings."
+  },
+  {
+    "id": "fresh_card_green_coins",
+    "category": "Fresh Card",
+    "source": "Fresh Card",
+    "url": "https://www.freshbus.com/freshcard",
+    "text": "Green Coins can be used along with the Fresh Card while booking, provided the customer has adequate balance."
+  },
+  {
+    "id": "fresh_card_transfer",
+    "category": "Fresh Card",
+    "source": "Fresh Card",
+    "url": "https://www.freshbus.com/freshcard",
+    "text": "Fresh Card cannot be transferred to someone else, but it can be used to book a ticket for someone else."
+  },
+  {
+    "id": "fresh_card_refund",
+    "category": "Fresh Card",
+    "source": "Fresh Card",
+    "url": "https://www.freshbus.com/freshcard",
+    "text": "On full cancellation of a ticket, the used Fresh Card balance will be refunded. There are no refunds on partial cancellation."
+  },
+  {
+    "id": "fresh_promise",
+    "category": "Fresh Promise",
+    "source": "Fresh Bus FAQ",
+    "url": "https://www.freshbus.com/faq",
+    "text": "Fresh Promise is Fresh Bus's on-time and reliability guarantee. The program applies when delay exceeds 90 minutes at the boarding or dropping point. It covers all Fresh Bus routes across India."
+  },
+  {
+    "id": "fresh_promise_payout",
+    "category": "Fresh Promise",
+    "source": "Fresh Bus Fresh Promise",
+    "url": "https://www.freshbus.com/freshPromise",
+    "text": "Fresh Bus sends the Fresh Promise payout link within about 12 hours of the scheduled drop time for a delay, or after a breakdown is confirmed. After authentication, the money reaches the customer's account in 5-7 working days."
+  },
+  {
+    "id": "fresh_promise_breakdown",
+    "category": "Fresh Promise",
+    "source": "Fresh Bus Fresh Promise",
+    "url": "https://www.freshbus.com/freshPromise",
+    "text": "If the bus breaks down and has not reached the destination city, the customer gets ₹1,000 and a full ticket refund. If it has already entered the destination city, the compensation is ₹500."
+  },
+  {
+    "id": "group_definition",
+    "category": "Group Booking",
+    "source": "Fresh Bus Group Booking",
+    "url": "https://www.freshbus.com/bulkBooking",
+    "text": "A requirement of 20 seats or more is treated as a group booking."
+  },
+  {
+    "id": "group_capacity",
+    "category": "Group Booking",
+    "source": "Fresh Bus Group Booking",
+    "url": "https://www.freshbus.com/bulkBooking",
+    "text": "Fresh Bus can arrange a 44 reclining luxury seater bus and can provide up to 4 buses with a total capacity of 176 seats for large groups."
+  },
+  {
+    "id": "group_use_cases",
+    "category": "Group Booking",
+    "source": "Fresh Bus Group Booking",
+    "url": "https://www.freshbus.com/bulkBooking",
+    "text": "Fresh Bus provides group bookings for Corporate, Wedding, Social, Functions, Student and other needs."
+  },
+  {
+    "id": "group_cancel",
+    "category": "Group Booking",
+    "source": "Fresh Bus Group Booking Policy",
+    "url": "https://www.freshbus.com/bulkBooking/policy",
+    "text": "For group bookings, 75% of the total amount is refunded if cancelled before 96 hours from boarding time, 50% if cancelled before 48 hours, and no amount is refunded if cancelled below 48 hours. If Fresh Bus cancels due to unavoidable circumstances, the full amount is refunded."
+  }
+]
