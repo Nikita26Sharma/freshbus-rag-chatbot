@@ -15,7 +15,7 @@ st.set_page_config(
 
 DATA_PATH = Path(__file__).parent / "knowledge_base.json"
 MODEL_NAME = "all-MiniLM-L6-v2"
-LLM_MODEL = "gemini-2.5-flash"
+LLM_MODEL = "gemini-3.1-flash-lite"
 
 @st.cache_data
 def load_knowledge():
